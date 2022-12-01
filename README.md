@@ -11,3 +11,7 @@
 <p align="center">
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
 </p>  
+
+<h3 align="center">👩‍ Project & Practice 👩‍💻</h3>
+[미니프로젝트](https://github.com/hongsoom/shop_advice_frontend)
+[클론코딩](https://github.com/shalalah/clone_practice)
