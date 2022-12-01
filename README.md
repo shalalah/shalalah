@@ -13,6 +13,5 @@
 </p>  
 
 <h3 align="center">👩‍💻 Project & Practice 👩‍💻</h3>
-- <a href="https://github.com/hongsoom/shop_advice_frontend">[미니프로젝트]</a>
-<br>
-- <a href="https://github.com/shalalah/clone_practice">[클론코딩]</a>
+  <p align="center">- <a href="https://github.com/hongsoom/shop_advice_frontend"> 미니프로젝트 branch </a></p> 
+  <p align="center"> - <a href="https://github.com/shalalah/clone_practice"> 클론코딩 branch </a></p> 
